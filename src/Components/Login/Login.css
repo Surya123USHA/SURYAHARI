@@ -1,0 +1,86 @@
+
+*{
+
+   
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    box-sizing: border-box;
+    
+}
+.na{
+    color: black;
+    background-color: black;
+}
+.va{
+    margin-top: 50px;
+    color: #000;
+    background-color: black;
+    bottom: 0;
+}
+.main_con{
+    background-color:aqua;
+    padding: 20px 30px;
+    margin: 0px  auto;
+    width: 400px;
+    margin-top: 100px;
+    border-top: 5px solid rgb(84, 12, 84);
+
+}
+.main_con .head{
+    width: 100%;
+    background-color: white;
+}
+.main_con .heada h2{
+    text-align: center;
+    color:black;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    background-color: aqua;
+}
+.main_con .boxa{
+    width: 100%;
+    margin-top: 10px;
+    background-color: aqua;
+}
+.main_con .boxa input
+{
+    width: 80%;
+    padding: 10px 20px;
+    margin-left: 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    border: 1px solid #232323;
+    background-color: white;
+}
+.main_con p{
+    margin-top: 15px;
+    font-size: 14px;
+    color: black;
+    margin-left: 30px;
+    font-weight: 600;
+    background-color: aqua;
+}
+.main_con button{
+    margin-top: 10px;
+    margin-left: 35%;
+    padding: 10px 30px;
+    border: none;
+    outline: none;
+    background:black;
+    color: aqua;
+    border-radius: 5px;
+
+}
+.cn{
+    color: aqua;
+    background-color: black;
+}
+.mom{
+    background-color: aqua;
+    color: black;
+    
+}
